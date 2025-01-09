@@ -5,11 +5,11 @@ Hi there! I'm **Cyrus** also known as **Cy**, a passionate BSIT student, content
 ---
 
 ## 🔥 About Me  
-- 🌱 **Currently Learning**: Full Stack Development (Front-end to Back-end mastery!)
-- 💻 **Main Tools**:
+- 🌱 **Currently Learning**: Full Stack Development (Front-end to Back-end mastery!)  
+- 💻 **Main Tools**:  
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
 ---
 
 ## 🌐 Connect with Me  
