@@ -1,7 +1,4 @@
-# 🌟 Welcome to My GitHub! 🌟  
-
-Hi there! I'm **Cyrus** also known as **Cy**, a passionate BSIT student, content creator, video editor, and a freelancer from 🌏 **Philippines**. 🚀  
-
+## Hi there! I'm **Cyrus** also known as **Cy**, a passionate BSIT student, content creator, video editor, and a freelancer from 🌏 **Philippines**. 🚀  
 ---
 
 ## 🔥 About Me  
@@ -18,10 +15,4 @@ Hi there! I'm **Cyrus** also known as **Cy**, a passionate BSIT student, content
 - 🎥 **TikTok**: [cy_programming](https://www.tiktok.com/@cy_programming?is_from_webapp=1&sender_device=pc)
 ---
 
-### 🚧 More about me 🚧  
-- I am a freelancer specialize in video editing and website development.
-- A content creator on tiktok.
-- A BSIT student.
-
----
 > 💡 *Transforming imagination to deliver impactful visuals and engaging experiences* -Cy
