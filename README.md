@@ -3,8 +3,12 @@
   <a href="https://www.tiktok.com/@cy_programming?is_from_webapp=1&sender_device=pc">
 	<img src="https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=flat" alt="TikTok">  
   </a>
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram">
+  <a href = "https://www.facebook.com/cyrus.wilson.5492">
+	  <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook">
+  </a>
+  <a href = "https://www.instagram.com/_cywilson_/">
+	  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram">
+  </a>
 </h1>
 <h3 align = "center">
 	A passionate BSIT student, content creator, video editor, and a freelancer from Philippines.
