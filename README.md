@@ -1,4 +1,5 @@
-## Hi there! I'm **Cyrus** also known as **Cy**, a passionate BSIT student, content creator, video editor, and a freelancer from 🌏 **Philippines**. 🚀  
+## Hi there! 
+I'm **Cyrus** also known as **Cy**, a passionate BSIT student, content creator, video editor, and a freelancer from 🌏 **Philippines**. 🚀  
 ---
 
 ## 🔥 About Me  
