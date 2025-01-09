@@ -1,4 +1,6 @@
-# Hi! 
+<h1 align = "center">
+  Cyrus Wilson
+</h1> 
 <h2 align = "center">
   I'm Cyrus also known as Cy, a passionate BSIT student, content creator, video editor, and a freelancer from 🌏 Philippines. 🚀
 </h2>
