@@ -13,8 +13,12 @@
 <h3 align = "center">
 	A passionate BSIT student, content creator, video editor, and a freelancer from Philippines.
 </h3>
-<hr></hr>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaruCy16&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruCy16&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="170" alt="languages graph"  />
+</div>
+<hr>
 <h1 align = "center"> My Tools and Technologies </h1>
 
 <p align="center">
@@ -27,7 +31,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code">
   <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=flat" alt="WebStorm">
 </p>
-<hr></hr>
+<hr>
+
 <h2 align = "center">🌐 Connect with Me</h2>
 <p align = "center">
 	💌Email: <br> <a href = "mailto:cywilson165@gmail.com">cywilson165@gmail.com</a> <br>
