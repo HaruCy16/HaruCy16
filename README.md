@@ -15,7 +15,7 @@
 </h3>
 <hr></hr>
 
-<h1 align = "center"> My Tools and Tech's </h1>
+<h1 align = "center"> My Tools and Technologies </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML">
