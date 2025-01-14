@@ -22,14 +22,16 @@
 <h1 align = "center"> My Tools and Technologies </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" alt="PHP">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code">
-  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=flat" alt="WebStorm">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "50" width = "50"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "50" width = "50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "50" width= "50"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height = "50" width = "50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height = "50" width = "50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" heigth = "50" width = "50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height = "50" width = "50" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height = "50" width = "50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height = "50" width = "50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height = "50" width = "50" />
 </p>
 <hr>
 
