@@ -43,5 +43,5 @@
 </p>
 <hr border = "1px solid gray"></hr>
 <p align = "center">
-	<i>Transforming imagination to deliver impactful visuals and engaging experiences</i> <br> --Cy
+	<i>"Transforming imagination to deliver impactful visuals and engaging experiences"</i> <br> --Cy
 </p>
