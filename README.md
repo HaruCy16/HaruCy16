@@ -18,9 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HaruCy16&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruCy16&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="170" alt="languages graph"  />
 </div>
-<hr>
-<h1 align = "center"> My Tools and Technologies </h1>
-<hr>
 
 <h2 align = "center">🌐 Connect with Me</h2>
 <p align = "center">
