@@ -22,7 +22,6 @@
 <h2 align = "center">🌐 Connect with Me</h2>
 <p align = "center">
 	💌Email: <br> <a href = "mailto:cyrus.freelancer.ve.webdev@gmail.com">cyrus.freelancer.ve.webdev@gmail.com</a> <br>
-	🌟Porfolio: <br> <a href = "https://cy-wilson-web-portfolio.vercel.app/" target = "_blank">Cyrus Wilson</a> <br>
 </p>
 <hr border = "1px solid gray"></hr>
 <p align = "center">
